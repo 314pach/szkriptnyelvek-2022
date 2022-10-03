@@ -1,9 +1,0 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-Nam nec pellentesque metus.
-Maecenas eu dignissim metus, et auctor nibh.
-Proin rhoncus congue ante ac pellentesque.
-Phasellus magna magna, congue in est vitae, mollis lacinia ex.
-Donec malesuada eu sem non feugiat.
-Sed turpis libero, posuere eget vestibulum quis, pulvinar ut felis.
-Ut et mattis magna.
-In nec dolor dapibus, efficitur mauris accumsan, tristique mi.
